@@ -1,0 +1,28 @@
+nav {
+    background: greenyellow;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 50px;
+}
+
+.imagen {
+    width: 200px;
+    height: 200px;
+}
+
+.imagenFutbol {
+    width: 375px;
+    height: auto;
+}
+
+.barra {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background: pink;
+    padding: 10px;
+}
+
